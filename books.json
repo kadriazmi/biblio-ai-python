@@ -1,0 +1,202 @@
+[
+  {
+    "id": 102,
+    "titre": "Le Petit Prince",
+    "auteur": "Antoine de Saint-Exupéry",
+    "categorie": "Roman",
+    "annee_publication": 1943,
+    "quantite_disponible": 5,
+    "statut": "disponible",
+    "date_retour": ""
+  },
+  {
+    "id": 103,
+    "titre": "Les Misérables",
+    "auteur": "Victor Hugo",
+    "categorie": "Roman",
+    "annee_publication": 1862,
+    "quantite_disponible": 0,
+    "statut": "emprunté",
+    "date_retour": "15/03/2026"
+  },
+  {
+    "id": 104,
+    "titre": "Notre-Dame de Paris",
+    "auteur": "Victor Hugo",
+    "categorie": "Roman",
+    "annee_publication": 1831,
+    "quantite_disponible": 2,
+    "statut": "disponible",
+    "date_retour": ""
+  },
+  {
+    "id": 105,
+    "titre": "Orgueil et Préjugés",
+    "auteur": "Jane Austen",
+    "categorie": "Roman romantique",
+    "annee_publication": 1813,
+    "quantite_disponible": 1,
+    "statut": "disponible",
+    "date_retour": ""
+  },
+  {
+    "id": 106,
+    "titre": "Jane Eyre",
+    "auteur": "Charlotte Brontë",
+    "categorie": "Roman romantique",
+    "annee_publication": 1847,
+    "quantite_disponible": 2,
+    "statut": "disponible",
+    "date_retour": ""
+  },
+  {
+    "id": 107,
+    "titre": "Clean Code",
+    "auteur": "Robert C. Martin",
+    "categorie": "Informatique",
+    "annee_publication": 2008,
+    "quantite_disponible": 1,
+    "statut": "disponible",
+    "date_retour": ""
+  },
+  {
+    "id": 108,
+    "titre": "Python Crash Course",
+    "auteur": "Eric Matthes",
+    "categorie": "Informatique",
+    "annee_publication": 2015,
+    "quantite_disponible": 2,
+    "statut": "disponible",
+    "date_retour": ""
+  },
+  {
+    "id": 109,
+    "titre": "Automate the Boring Stuff",
+    "auteur": "Al Sweigart",
+    "categorie": "Informatique",
+    "annee_publication": 2015,
+    "quantite_disponible": 1,
+    "statut": "disponible",
+    "date_retour": ""
+  },
+  {
+    "id": 110,
+    "titre": "Le Rouge et le Noir",
+    "auteur": "Stendhal",
+    "categorie": "Roman",
+    "annee_publication": 1830,
+    "quantite_disponible": 1,
+    "statut": "emprunté",
+    "date_retour": "20/04/2026"
+  },
+  {
+    "id": 111,
+    "titre": "1984",
+    "auteur": "George Orwell",
+    "categorie": "Science-Fiction",
+    "annee_publication": 1949,
+    "quantite_disponible": 2,
+    "statut": "disponible",
+    "date_retour": ""
+  },
+  {
+    "id": 112,
+    "titre": "Brave New World",
+    "auteur": "Aldous Huxley",
+    "categorie": "Science-Fiction",
+    "annee_publication": 1932,
+    "quantite_disponible": 1,
+    "statut": "disponible",
+    "date_retour": ""
+  },
+  {
+    "id": 113,
+    "titre": "Sapiens",
+    "auteur": "Yuval Noah Harari",
+    "categorie": "Histoire",
+    "annee_publication": 2011,
+    "quantite_disponible": 3,
+    "statut": "disponible",
+    "date_retour": ""
+  },
+  {
+    "id": 114,
+    "titre": "Une brève histoire du temps",
+    "auteur": "Stephen Hawking",
+    "categorie": "Science",
+    "annee_publication": 1988,
+    "quantite_disponible": 1,
+    "statut": "réservé",
+    "date_retour": ""
+  },
+  {
+    "id": 115,
+    "titre": "Les Contemplations",
+    "auteur": "Victor Hugo",
+    "categorie": "Poésie",
+    "annee_publication": 1856,
+    "quantite_disponible": 1,
+    "statut": "disponible",
+    "date_retour": ""
+  },
+  {
+    "id": 116,
+    "titre": "L'Étranger",
+    "auteur": "Albert Camus",
+    "categorie": "Roman",
+    "annee_publication": 1942,
+    "quantite_disponible": 2,
+    "statut": "disponible",
+    "date_retour": ""
+  },
+  {
+    "id": 117,
+    "titre": "Le Comte de Monte-Cristo",
+    "auteur": "Alexandre Dumas",
+    "categorie": "Roman",
+    "annee_publication": 1844,
+    "quantite_disponible": 2,
+    "statut": "disponible",
+    "date_retour": ""
+  },
+  {
+    "id": 118,
+    "titre": "Don Quichotte",
+    "auteur": "Cervantes",
+    "categorie": "Roman",
+    "annee_publication": 1605,
+    "quantite_disponible": 1,
+    "statut": "disponible",
+    "date_retour": ""
+  },
+  {
+    "id": 119,
+    "titre": "Introduction aux algorithmes",
+    "auteur": "Cormen et al.",
+    "categorie": "Informatique",
+    "annee_publication": 2009,
+    "quantite_disponible": 1,
+    "statut": "emprunté",
+    "date_retour": "10/06/2026"
+  },
+  {
+    "id": 120,
+    "titre": "Deep Learning",
+    "auteur": "Ian Goodfellow",
+    "categorie": "Informatique",
+    "annee_publication": 2016,
+    "quantite_disponible": 1,
+    "statut": "disponible",
+    "date_retour": ""
+  },
+  {
+    "id": 121,
+    "titre": "Fluent Python",
+    "auteur": "Luciano Ramalho",
+    "categorie": "Informatique",
+    "annee_publication": 2015,
+    "quantite_disponible": 2,
+    "statut": "disponible",
+    "date_retour": ""
+  }
+]
