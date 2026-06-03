@@ -41,7 +41,7 @@ Le chatbot répond aux questions en langage naturel en se basant sur les donnée
 
 ### Étape 1 — Cloner le projet
 ```bash
-git clone https://github.com/kadriazmi/bibliotheque-intelligente-chatbot-ia
+git clone https://github.com/kadriazmi/biblio-ai-python
 cd bibliotheque-intelligente-chatbot-ia
 ```
 
